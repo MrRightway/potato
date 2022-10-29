@@ -4,6 +4,7 @@ uvicorn
 python-multipart
 pillow
 gunicorn
+tensorflow
 
 matplotlib
 numpy
